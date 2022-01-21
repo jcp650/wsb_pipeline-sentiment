@@ -1,5 +1,6 @@
 # Adding token file
 praw_token.ipynb
+config.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
